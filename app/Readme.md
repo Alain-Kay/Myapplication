@@ -1,1 +1,0 @@
-# ceci est une petite application Android crée dans le cadre du cours du developpement mobile

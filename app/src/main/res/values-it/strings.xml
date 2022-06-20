@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello_world">Ciao mondo</string>
-    <string name="password">Parola d'ordine</string>
+    <string name="password">Parola d\'ordine</string>
     <string name="email">Email</string>
     <string name="se_connecter"> Collegare</string>
 </resources>
