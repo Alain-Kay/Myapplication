@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Hola mundo</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electrónico</string>
+    <string name="se_connecter">Conexión</string>
+</resources>

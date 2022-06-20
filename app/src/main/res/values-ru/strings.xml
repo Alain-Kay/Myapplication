@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">Подключение !</string>
+    <string name="password">Пароль</string>
+    <string name="email">Электронная почта</string>
+    <string name="se_connecter">подключение</string>
+</resources>
